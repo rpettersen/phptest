@@ -7,5 +7,5 @@
 <?php
   echo "You are on ". gethostname() . "\n";
 ?>
-  <h2> Version 2</h2>
+  <h2> Version 3</h2>
 </BODY></HTML>
